@@ -1,0 +1,184 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="GDIEngine.c">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="Math.c">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="Time.c">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="UserInput.c">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="CharSubzero.c">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="Protagonist.c">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="Cutscene.c">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="SceneTransitionImage.c">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="Stage.c">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="DynamicGimmick.c">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="Fog.c">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="Letter.c">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="StaticTile.c">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="UIButton.c">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="Vector2d.c">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="Vector2i.c">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="UIWindow.c">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="Sound.c">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="UIImage.c">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="MyHash.c">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="PathManager.c">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="Res.c">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="ResManager.c">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="texture.c">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="MovementHandler.c">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="Text.c">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="BlackMask.c">
+      <Filter>source</Filter>
+    </ClCompile>
+    <ClCompile Include="WinMain.c" />
+    <ClCompile Include="ReloadTransition.c">
+      <Filter>source</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="GDIEngine.h">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="Math.h">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="Time.h">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="UserInput.h">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="CharSubzero.h">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="Protagonist.h">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="Cutscene.h">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="SceneTransitionImage.h">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="Stage.h">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="DynamicGimmick.h">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="Fog.h">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="Letter.h">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="StaticTile.h">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="UIButton.h">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="Vector2i.h">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="Vector2d.h">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="UIImage.h">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="Sound.h">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="UIWindow.h">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="MyHash.h">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="PathManager.h">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="Res.h">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="ResManager.h">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="texture.h">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="MovementHandler.h">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="Text.h">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="BlackMask.h">
+      <Filter>header</Filter>
+    </ClInclude>
+    <ClInclude Include="ReloadTransition.h">
+      <Filter>header</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="source">
+      <UniqueIdentifier>{6ee59f9e-6b25-421a-8420-2242b5ac50cd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="header">
+      <UniqueIdentifier>{19e792b8-9c3d-4c26-893d-95a63c22d632}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
